@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">checkbox</string>
+    <string name="dodatkoweuslugi">dodatkowe usługi</string>
+    <string name="platnosc">płatność</string>
+    <string name="opakowanie">opakowanie</string>
+    <string name="dostawa">dostawa</string>
+    <string name="czerw">czerwony</string>
+    <string name="ziel">zielony</string>
+    <string name="nieb">niebieski</string>
+</resources>
